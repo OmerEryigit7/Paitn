@@ -1,0 +1,4 @@
+pyjokes
+pip/pip3
+
+Er forventet at brukeren allerede har python installert.
